@@ -1,5 +1,5 @@
 # slideNavDemo
-在http://code.cocoachina.com/view/129345 的基础上改进的 在页面中加入顶部可滑动的Scrollview,点击上方按钮，子控制器可以切换、滑动。
+在http://code.cocoachina.com/view/129345 的基础上改进的 在页面中加入顶部可滑动的Scrollview,点击上方按钮，子控制器可以切换、滑动。<br> 
 ![image](https://github.com/FengXJ/slideNavDemo/blob/master/slideNavDemo/SlideNavGif.gif) 
 
 使用时只需要将 SlideNavClass 文件夹导入进项目<br> 
