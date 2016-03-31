@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BD3C1F7DD4001A47207CFC979170304A68024873",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BD3C1F7DD4001A47207CFC979170304A68024873" : 0,
+    "8872A751C9FEFBE0DBFD11031966B74934004F45" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "794BE20A-BD33-448B-B98A-6C36619D9B61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BD3C1F7DD4001A47207CFC979170304A68024873" : "slideNavDemo\/",
+    "8872A751C9FEFBE0DBFD11031966B74934004F45" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "slideNavDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "slideNavDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/FXueJie\/chuangandemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8872A751C9FEFBE0DBFD11031966B74934004F45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FengXJ\/slideNavDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD3C1F7DD4001A47207CFC979170304A68024873"
+    }
+  ]
+}

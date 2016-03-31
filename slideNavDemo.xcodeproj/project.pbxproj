@@ -23,6 +23,7 @@
 		2AF434031CAD0DE30070D0D0 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF434021CAD0DE30070D0D0 /* ThreeViewController.m */; };
 		2AF434051CAD0E970070D0D0 /* b1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AF434041CAD0E970070D0D0 /* b1.png */; };
 		2AF434081CAD14000070D0D0 /* fourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF434071CAD14000070D0D0 /* fourViewController.m */; };
+		2AF4340A1CAD200F0070D0D0 /* SlideNavGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,7 @@
 		2AF434041CAD0E970070D0D0 /* b1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b1.png; sourceTree = "<group>"; };
 		2AF434061CAD14000070D0D0 /* fourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fourViewController.h; sourceTree = "<group>"; };
 		2AF434071CAD14000070D0D0 /* fourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fourViewController.m; sourceTree = "<group>"; };
+		2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SlideNavGif.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 		2AF433BD1CACFD0B0070D0D0 /* slideNavDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */,
 				2AF433F41CACFD130070D0D0 /* SlideNav */,
 				2AF433C11CACFD0B0070D0D0 /* AppDelegate.h */,
 				2AF433C21CACFD0B0070D0D0 /* AppDelegate.m */,
@@ -289,6 +292,7 @@
 			files = (
 				2AF434051CAD0E970070D0D0 /* b1.png in Resources */,
 				2AF433D11CACFD0B0070D0D0 /* LaunchScreen.storyboard in Resources */,
+				2AF4340A1CAD200F0070D0D0 /* SlideNavGif.gif in Resources */,
 				2AF433CE1CACFD0B0070D0D0 /* Assets.xcassets in Resources */,
 				2AF433C91CACFD0B0070D0D0 /* Main.storyboard in Resources */,
 			);

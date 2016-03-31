@@ -54,7 +54,7 @@ static CGFloat const MaxScale = 1.2;/** 选中文字放大  */
     self.contentScrollView.pagingEnabled = YES;
     self.contentScrollView.showsHorizontalScrollIndicator  = NO;
     self.contentScrollView.delegate = self;
-//    self.contentScrollView.bounces = NO;
+    self.contentScrollView.bounces = NO;
 }
 - (UIViewController *)findViewController:(UIView *)sourceView
 {
