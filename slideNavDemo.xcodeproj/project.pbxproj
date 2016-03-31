@@ -16,14 +16,14 @@
 		2AF433D11CACFD0B0070D0D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AF433CF1CACFD0B0070D0D0 /* LaunchScreen.storyboard */; };
 		2AF433DC1CACFD0B0070D0D0 /* slideNavDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433DB1CACFD0B0070D0D0 /* slideNavDemoTests.m */; };
 		2AF433E71CACFD0B0070D0D0 /* slideNavDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433E61CACFD0B0070D0D0 /* slideNavDemoUITests.m */; };
-		2AF433F71CACFD4D0070D0D0 /* SlideHeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433F61CACFD4D0070D0D0 /* SlideHeadView.m */; };
-		2AF433FA1CACFD650070D0D0 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433F91CACFD650070D0D0 /* UIView+Extension.m */; };
 		2AF433FD1CAD0A170070D0D0 /* FirstVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433FC1CAD0A170070D0D0 /* FirstVC.m */; };
 		2AF434001CAD0A2B0070D0D0 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF433FF1CAD0A2B0070D0D0 /* SecondViewController.m */; };
 		2AF434031CAD0DE30070D0D0 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF434021CAD0DE30070D0D0 /* ThreeViewController.m */; };
-		2AF434051CAD0E970070D0D0 /* b1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AF434041CAD0E970070D0D0 /* b1.png */; };
 		2AF434081CAD14000070D0D0 /* fourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF434071CAD14000070D0D0 /* fourViewController.m */; };
 		2AF4340A1CAD200F0070D0D0 /* SlideNavGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */; };
+		2AF434121CAD213B0070D0D0 /* b1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AF4340D1CAD213B0070D0D0 /* b1.png */; };
+		2AF434131CAD213B0070D0D0 /* SlideHeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF4340F1CAD213B0070D0D0 /* SlideHeadView.m */; };
+		2AF434141CAD213B0070D0D0 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF434111CAD213B0070D0D0 /* UIView+Extension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,20 +61,20 @@
 		2AF433E21CACFD0B0070D0D0 /* slideNavDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slideNavDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AF433E61CACFD0B0070D0D0 /* slideNavDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = slideNavDemoUITests.m; sourceTree = "<group>"; };
 		2AF433E81CACFD0B0070D0D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2AF433F51CACFD4D0070D0D0 /* SlideHeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideHeadView.h; sourceTree = "<group>"; };
-		2AF433F61CACFD4D0070D0D0 /* SlideHeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideHeadView.m; sourceTree = "<group>"; };
-		2AF433F81CACFD650070D0D0 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
-		2AF433F91CACFD650070D0D0 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 		2AF433FB1CAD0A170070D0D0 /* FirstVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstVC.h; sourceTree = "<group>"; };
 		2AF433FC1CAD0A170070D0D0 /* FirstVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstVC.m; sourceTree = "<group>"; };
 		2AF433FE1CAD0A2B0070D0D0 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		2AF433FF1CAD0A2B0070D0D0 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		2AF434011CAD0DE30070D0D0 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
 		2AF434021CAD0DE30070D0D0 /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
-		2AF434041CAD0E970070D0D0 /* b1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b1.png; sourceTree = "<group>"; };
 		2AF434061CAD14000070D0D0 /* fourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fourViewController.h; sourceTree = "<group>"; };
 		2AF434071CAD14000070D0D0 /* fourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fourViewController.m; sourceTree = "<group>"; };
 		2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SlideNavGif.gif; sourceTree = "<group>"; };
+		2AF4340D1CAD213B0070D0D0 /* b1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b1.png; sourceTree = "<group>"; };
+		2AF4340E1CAD213B0070D0D0 /* SlideHeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideHeadView.h; sourceTree = "<group>"; };
+		2AF4340F1CAD213B0070D0D0 /* SlideHeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideHeadView.m; sourceTree = "<group>"; };
+		2AF434101CAD213B0070D0D0 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		2AF434111CAD213B0070D0D0 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,8 +125,8 @@
 		2AF433BD1CACFD0B0070D0D0 /* slideNavDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2AF4340C1CAD213B0070D0D0 /* SlideNavClass */,
 				2AF434091CAD200F0070D0D0 /* SlideNavGif.gif */,
-				2AF433F41CACFD130070D0D0 /* SlideNav */,
 				2AF433C11CACFD0B0070D0D0 /* AppDelegate.h */,
 				2AF433C21CACFD0B0070D0D0 /* AppDelegate.m */,
 				2AF433C41CACFD0B0070D0D0 /* ViewController.h */,
@@ -175,16 +175,16 @@
 			path = slideNavDemoUITests;
 			sourceTree = "<group>";
 		};
-		2AF433F41CACFD130070D0D0 /* SlideNav */ = {
+		2AF4340C1CAD213B0070D0D0 /* SlideNavClass */ = {
 			isa = PBXGroup;
 			children = (
-				2AF434041CAD0E970070D0D0 /* b1.png */,
-				2AF433F81CACFD650070D0D0 /* UIView+Extension.h */,
-				2AF433F91CACFD650070D0D0 /* UIView+Extension.m */,
-				2AF433F51CACFD4D0070D0D0 /* SlideHeadView.h */,
-				2AF433F61CACFD4D0070D0D0 /* SlideHeadView.m */,
+				2AF4340D1CAD213B0070D0D0 /* b1.png */,
+				2AF4340E1CAD213B0070D0D0 /* SlideHeadView.h */,
+				2AF4340F1CAD213B0070D0D0 /* SlideHeadView.m */,
+				2AF434101CAD213B0070D0D0 /* UIView+Extension.h */,
+				2AF434111CAD213B0070D0D0 /* UIView+Extension.m */,
 			);
-			name = SlideNav;
+			path = SlideNavClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,7 +290,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AF434051CAD0E970070D0D0 /* b1.png in Resources */,
+				2AF434121CAD213B0070D0D0 /* b1.png in Resources */,
 				2AF433D11CACFD0B0070D0D0 /* LaunchScreen.storyboard in Resources */,
 				2AF4340A1CAD200F0070D0D0 /* SlideNavGif.gif in Resources */,
 				2AF433CE1CACFD0B0070D0D0 /* Assets.xcassets in Resources */,
@@ -319,15 +319,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AF433FA1CACFD650070D0D0 /* UIView+Extension.m in Sources */,
+				2AF434141CAD213B0070D0D0 /* UIView+Extension.m in Sources */,
 				2AF433FD1CAD0A170070D0D0 /* FirstVC.m in Sources */,
 				2AF433CC1CACFD0B0070D0D0 /* slideNavDemo.xcdatamodeld in Sources */,
-				2AF433F71CACFD4D0070D0D0 /* SlideHeadView.m in Sources */,
 				2AF434001CAD0A2B0070D0D0 /* SecondViewController.m in Sources */,
 				2AF433C61CACFD0B0070D0D0 /* ViewController.m in Sources */,
 				2AF434081CAD14000070D0D0 /* fourViewController.m in Sources */,
 				2AF434031CAD0DE30070D0D0 /* ThreeViewController.m in Sources */,
 				2AF433C31CACFD0B0070D0D0 /* AppDelegate.m in Sources */,
+				2AF434131CAD213B0070D0D0 /* SlideHeadView.m in Sources */,
 				2AF433C01CACFD0B0070D0D0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
