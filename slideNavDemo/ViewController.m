@@ -24,9 +24,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     //完成以下步骤即可
+    //初始化SlideHeadView，并加进view
     SlideHeadView *slideVC = [[SlideHeadView alloc]init];
     [self.view addSubview:slideVC];
     
+//    初始化子控制器，使用-(void)addChildViewController:(UIViewController *)childVC title:(NSString *)vcTitle方法
     FirstVC *firstVC = [[FirstVC alloc]init];
     SecondViewController *secondVC = [[SecondViewController alloc]init];
     ThreeViewController *threeVC = [[ThreeViewController alloc]init];
@@ -44,6 +46,7 @@
     NSArray *titleArr = @[@"美食",@"旅游",@"电影",@"招聘",@"娱乐",@"肯德基",@"美食",@"旅游",@"电影",@"招聘",@"娱乐",@"肯德基"];
     slideVC.titlesArr = titleArr;
     
+    //
     [slideVC addChildViewController:firstVC title:titleArr[0]];
     [slideVC addChildViewController:secondVC title:titleArr[1]];
     [slideVC addChildViewController:threeVC title:titleArr[2]];
@@ -52,15 +55,12 @@
     [slideVC addChildViewController:sixVC title:titleArr[5]];
     [slideVC addChildViewController:sevenVC title:titleArr[6]];
     [slideVC addChildViewController:eightVC title:titleArr[7]];
-
     [slideVC addChildViewController:nineVC title:titleArr[8]];
     [slideVC addChildViewController:tenVC title:titleArr[9]];
-
     [slideVC addChildViewController:VC11 title:titleArr[10]];
     [slideVC addChildViewController:VC12 title:titleArr[11]];
-
-
     
+    //最后再调用setSlideHeadView  完成
     [slideVC setSlideHeadView];
 }
 
